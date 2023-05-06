@@ -1,3 +1,6 @@
 [submodule "COMPSCI2XC3"]
 	path = COMPSCI2XC3
 	url = https://github.com/AHadiS1xc3/COMPSCI2XC3.git
+[submodule "Lab62XC3"]
+	path = Lab62XC3
+	url = https://github.com/AHadiS1xc3/Lab62XC3.git
